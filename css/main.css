@@ -1,3 +1,31 @@
+.logos {
+    padding-left: 7em;
+} 
+
+.acc-name {
+    font-weight: 300;
+    font-size: 2em;
+}
+
 .acc-info {
     margin: 3em;
+}
+
+.acc-img {
+    margin-left: 9em;
+    border: 3px solid #dbdbdb;
+}
+
+.search-bar {
+    margin: 0 auto;
+}
+
+.search-bar input {
+    border: 1px solid #dbdbdb;
+    text-decoration: none;
+    width: 13.5em;
+    color: #999;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 0.9em;
 }
