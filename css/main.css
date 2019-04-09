@@ -8,9 +8,14 @@ a {
     padding: 1em;
 }
 
-.logos {
+.logos-left {
     padding-left: 5em;
 } 
+
+.logos-right {
+    padding-right: 5em;
+    width: 40px;
+}
 
 .bio-info {
     padding-left: 4em;
@@ -56,7 +61,7 @@ a {
 .search-bar input {
     border: 1px solid #dbdbdb;
     text-decoration: none;
-    width: 13.5em;
+    width: 14.5em;
     color: #999;
     text-align: center;
     font-family: Helvetica, Arial, sans-serif;
