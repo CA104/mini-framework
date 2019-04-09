@@ -1,10 +1,20 @@
-body a {
+a {
     color: black;
+    text-decoration: none;
+}
+
+.menu {
+    border-bottom: 0.5px solid #dbdbdb;
+    padding: 1em;
 }
 
 .logos {
-    padding-left: 7em;
+    padding-left: 5em;
 } 
+
+.bio-info {
+    padding-left: 4em;
+}
 
 .acc-name {
     font-weight: 300;
@@ -13,11 +23,30 @@ body a {
 
 .acc-info {
     margin: 3em;
+    padding-top: 1em;
+    padding-right: 1em;
 }
 
 .acc-img {
     margin-left: 9em;
-    border: 3px solid #dbdbdb;
+    border: 2px solid #dbdbdb;
+    padding: 6px;
+}
+
+.division {
+    border: 0.5px solid #dbdbdb;
+    width: 70vw;
+    margin: 2em auto;
+}
+
+.stories {
+    padding-left: 14em;
+}
+
+.stories img {
+    padding: 3px;
+    border: 1px solid #dbdbdb;
+    margin: 1em;
 }
 
 .search-bar {
@@ -41,4 +70,17 @@ body a {
 .bio {
     font-size: 1em;
     padding-top: 1em;
+}
+
+.bott-menu {
+    padding: 0 9em;
+}
+
+ul a {
+    color: #003569;
+    margin-bottom: 2em;
+    margin-top: 1em;
+    font-size: 0.65em;
+    font-weight: 600;
+    text-decoration: none;
 }
